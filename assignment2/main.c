@@ -44,7 +44,7 @@ int main()
         printf("%s\n", wildAnimals[i]);
     }
 
-    printf("\nAll animals entered both domestic and wild):\n");
+    printf("\nAll animals entered both domestic and wild:\n");
     for (int i = 0; i < N; i++) {
         printf("%s\n", domesticAnimals[i]);
     }
